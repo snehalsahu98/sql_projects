@@ -139,23 +139,3 @@ This project is purely academic and was created for learning and portfolio purpo
 
 ---
 
-## 📊 What's Next?
-I'm planning to:
-
-Complete the Power BI dashboard to visualize trends like customer segmentation, seasonal demand, and delivery ratings
-
-Upload the .pbix file to GitHub for live interaction
-
-Possibly integrate Tableau for cross-platform visualization experience
-
-## 👩‍💻 About Me
-
-I’m a final-year B.Tech CSE student exploring data analytics, full-stack development. This project helped me practice:
-
-* Real-life database modeling
-* Data cleaning
-* Writing complex SQL queries
-* Visualizing data with Power BI
-* Interpreting business problems using data
-
----

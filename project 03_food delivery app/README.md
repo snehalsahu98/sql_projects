@@ -1,4 +1,4 @@
-# SQL Project: Data Analysis for Dishcover – A Food Delivery Company
+# SQL Project: Data Analysis on a Food Delivery Application
 
 ## 📌 Overview
 

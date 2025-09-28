@@ -1,4 +1,4 @@
-# SQL Project: Data Analysis on a Food Delivery Application
+# SnapEats: SQL Data Analysis on a Food Delivery Application
 
 ## 📌 Overview
 

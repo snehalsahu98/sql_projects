@@ -1,4 +1,4 @@
--- Zomato Data Analysis using SQL
+-- SnapEats Data Analysis using SQL
 
 -- CREATING TABLES FOR DATABASE
 create table customers
@@ -71,3 +71,4 @@ drop table if exists riders;
 
 -- End of Schemas
 ---------------------------------------------------------------------------------------------------------------
+

@@ -17,18 +17,16 @@ The name **SnapEats** reflects the idea of getting food “in a snap” — high
 
 ---
 ## 📚 What I Learned from This Project
-Through Dishcover, I didn’t just write SQL queries—I learned how to think like a data analyst. Here's what I practiced:
+Through SnapEats, I didn’t just write SQL queries—I learned how to think like a data analyst. Here's what I practiced:
 
-📌 Database Design – Created clean and structured tables using real-world relationships
-🔍 Data Filtering & Retrieval – Wrote queries to get the right answers from large datasets
-📊 Aggregation & Grouping – Used functions like SUM, COUNT, AVG to find key insights
-🔗 Joins – Connected multiple tables (e.g., orders, customers, restaurants) to get complete answers
-🪟 Window Functions – Used RANK, ROW_NUMBER,LAG etc., for advanced analysis
-🕒 Date & Time Functions – Found trends over months, years, time slots
-🔁 Conditional Logic – Applied CASE WHEN to add logic inside SQL queries
-🧠 Subqueries – Wrote queries inside queries for more complex problems
-
-This project also helped me visualize insights using Power BI, making the data easier to understand for non-technical people.
+- 📌 Database Design – Created clean and structured tables using real-world relationships
+- 🔍 Data Filtering & Retrieval – Wrote queries to get the right answers from large datasets
+- 📊 Aggregation & Grouping – Used functions like SUM, COUNT, AVG to find key insights
+- 🔗 Joins – Connected multiple tables (e.g., orders, customers, restaurants) to get complete answers
+- 🪟 Window Functions – Used RANK, ROW_NUMBER,LAG etc., for advanced analysis
+- 🕒 Date & Time Functions – Found trends over months, years, time slots
+- 🔁 Conditional Logic – Applied CASE WHEN to add logic inside SQL queries
+- 🧠 Subqueries – Wrote queries inside queries for more complex problems
 
 ---
 ## 🔍 Key Highlights:

@@ -67,20 +67,6 @@ This repository contains multiple database projects across different domains, ea
 
 ---
 
-### 5️⃣ Netflix & Spotify Analysis
-
-* **Description:** Comparative analysis of content platforms to study usage trends, ratings, and content performance.
-* **Skills Practiced:** SQL aggregation, ranking, window functions, multi-table joins, and conditional queries.
-* **Key Insights:**
-
-  * Most popular movies, shows, and songs by genre
-  * Top users by engagement
-  * Rating patterns and seasonal trends
- 
-Here’s a detailed description for each project separately, with realistic assumptions:
-
----
-
 ### 5️⃣ **Netflix Analysis**
 
 * **Description:**
@@ -95,7 +81,7 @@ Here’s a detailed description for each project separately, with realistic assu
 
 ---
 
-### **Spotify Analysis**
+### 6️⃣ **Spotify Analysis**
 
 * **Description:**
   Created a database to analyze music streaming patterns on Spotify platform. Tracked songs, artists, albums, playlists, and user listening history to gain insights into user preferences and content performance.
